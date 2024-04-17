@@ -1,0 +1,5 @@
+Olivia Grace|10,15|1
+Benjamin Archer|20,25|1
+Sophia Harper|20,20|1
+Jackson Reid|19,21|0
+Ava Marie|25,20|0
